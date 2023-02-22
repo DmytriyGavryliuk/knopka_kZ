@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(7, 45, 106);
+    display: flex;
+    justify-content: center;|
+    padding: 30px;
+    font-family: "Roboto", sans-serif;
+}
+
+
+.container {
+display:table-column;
+justify-content: center;
+margin-top: 30vh;
+
+
+}
+
+.knopka {
+    width: 200px;
+    height: 70px;
+    background-color: rgb(27, 27, 27);
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+}
+
+
+.blue_text {
+    
+    justify-content: center;
+color: rgb(0, 0, 0);
+font-weight: 700;
+    font-size: 46px;
+    line-height: 1.19;
+}
+
+.white_text {
+    
+    justify-content: center;
+color: aliceblue;
+font-weight: 700;
+    font-size: 46px;
+    line-height: 1.19;
+}
+
+.text_container {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+        align-items: center;
+}
+
+
